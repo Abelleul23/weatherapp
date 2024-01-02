@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-w3=g=jv2c=(_4lvbaksjs2ze01otoq@16$*-2=8bfy4-j2%z+6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', 'perseus-weather-appp.onrender.com']
 
 
 # Application definition
